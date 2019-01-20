@@ -11,4 +11,4 @@ Story Telling : 1) The relation between money spent for claims with respect to v
 
 Conclusion : Using multiple linear regression we found relation between claims amount and other attributes
 
-Skills Learnt : SAS Enterprise Guide , Tableau , Association Rule , Clustering , Decision Tree
+Skills Learnt : SAS Enterprise Guide , Tableau , Association Rule , Clustering , Decision Tree, Linear Regression, Logistic Regression
